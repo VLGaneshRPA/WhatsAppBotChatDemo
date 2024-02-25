@@ -1,7 +1,7 @@
 import requests
 
 params = {
-  'access_key': 'dba6a70e212d75664a0cd82df113ae47'
+  'access_key': ''
 }
 
 BASE_URL = 'http://api.marketstack.com/v1/'
